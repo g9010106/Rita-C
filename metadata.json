@@ -1,0 +1,8 @@
+{
+  "name": "CoolPlay 酷英播放器",
+  "description": "專為兒童設計的英文單字與例句聽讀播放器。支援 Excel / 試算表直接匯入、一鍵 Gemini AI 補全生詞的 K.K.音標與互動例句，並搭載多種隨身聽朗讀語速設定，讓孩子們隨身帶在手機上聽讀學習！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
